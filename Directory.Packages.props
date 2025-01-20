@@ -27,7 +27,7 @@
     <PackageVersion Include="GraphQL.MicrosoftDI" Version="7.9.0" />
     <PackageVersion Include="GraphQL.SystemTextJson" Version="7.9.0" />
     <PackageVersion Include="Jint" Version="4.0.3" />
-    <PackageVersion Include="JsonPath.Net" Version="1.1.6" />
+    <PackageVersion Include="JsonPath.Net" Version="2.1.0" />
     <PackageVersion Include="HtmlSanitizer" Version="8.2.871-beta" />
     <PackageVersion Include="Irony" Version="1.5.3" />
     <PackageVersion Include="libphonenumber-csharp" Version="8.13.47" />
@@ -57,7 +57,7 @@
     <PackageVersion Include="NEST" Version="7.17.5" />
     <PackageVersion Include="NJsonSchema" Version="11.0.2" />
     <PackageVersion Include="NLog.Web.AspNetCore" Version="5.3.14" />
-    <PackageVersion Include="NodaTime" Version="3.2.0" />
+    <PackageVersion Include="NodaTime" Version="3.2.1" />
     <PackageVersion Include="OpenIddict.Core" Version="5.8.0" />
     <PackageVersion Include="OpenIddict.Server.AspNetCore" Version="5.8.0" />
     <PackageVersion Include="OpenIddict.Server.DataProtection" Version="5.8.0" />
@@ -90,7 +90,7 @@
   </ItemGroup>
   <ItemGroup>
     <GlobalPackageReference Include="Microsoft.SourceLink.GitHub" Version="8.0.0" />
-    <GlobalPackageReference Include="Microsoft.CodeAnalysis.CSharp.CodeStyle" Version="4.11.0" />
+    <GlobalPackageReference Include="Microsoft.CodeAnalysis.CSharp.CodeStyle" Version="4.12.0" />
   </ItemGroup>
   
   <!-- These versions are used for tansitive dependency forced upgrades only. E.g. when a package references a vulnerable version. -->
